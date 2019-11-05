@@ -2,4 +2,4 @@
 
 I would like to make changes 
 I need to learn more 
-
+I have degree in computer science 
